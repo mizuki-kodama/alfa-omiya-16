@@ -243,11 +243,11 @@ button {
 }
 
 .bg-color--subcolor {
-  background-color: #8aa4a7;
+  background-color: #9c9c9c;
 }
 
 .bg-color--gray {
-  background-color: #bfd3d6;
+  background-color: #e6e6e6;
 }
 
 /*********************
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #8aa4a7;
+  background-color: #9c9c9c;
   margin: 0 -20px 20px -20px;
 }
 
