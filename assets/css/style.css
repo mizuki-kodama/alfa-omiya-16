@@ -246,8 +246,16 @@ button {
   background-color: #9c9c9c;
 }
 
+.bg-color--subcolor2 {
+  background-color: #88a0a9;
+}
+
 .bg-color--gray {
   background-color: #e6e6e6;
+}
+
+.bg-color--gray2 {
+  background-color: #bddbe6;
 }
 
 /*********************
@@ -275,6 +283,15 @@ button {
   text-align: center;
   padding: 9px 20px;
   background-color: #9c9c9c;
+  margin: 0 -20px 20px -20px;
+}
+
+.section-title2 {
+  font-size: 24px;
+  line-height: 1.75;
+  text-align: center;
+  padding: 9px 20px;
+  background-color: #88a0a9;
   margin: 0 -20px 20px -20px;
 }
 
